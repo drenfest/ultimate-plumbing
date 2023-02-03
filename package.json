@@ -1,11 +1,13 @@
 {
   "name": "Ultimate-Plumbing",
   "description": "Ultimate Plumbing Pwa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build",
-    "export": "sapper export",
+    "export": "sapper export ./public",
+    "rename": "sh rename-extensions.sh",
+    "generate-sitemap": "node generate-sitemap",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
@@ -28,7 +30,7 @@
     "rollup-plugin-commonjs": "^10.0.0",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-replace": "^2.0.0",
-    "rollup-plugin-svelte": "^5.0.1",
+    "rollup-plugin-svelte": "^6.1.1",
     "rollup-plugin-terser": "^4.0.4",
     "sapper": "^0.27.0",
     "svelte": "^3.0.0"

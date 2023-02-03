@@ -6,11 +6,11 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/hvacthero1.jpg"
+        heroImage="/assets/images/heros/waterheaters.jpg"
         heroTitle="Water Heaters"
         heroBigText="Affordable & Quality Water Heaters"
-        heroText=" Your Hvac | A/C | Furnace Installation & Repair Company">
-    <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Order Your New Water Heater Now</a>
+        heroText=" Your Plumbing Equipment &amp; Supplies Company">
+    <a class="btn btn-light" href="/contact" title="Order Your Water Heater Now">Order Your New Water Heater Now</a>
 </Hero>
 <div class="container">
     <div class="row">

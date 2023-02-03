@@ -6,7 +6,7 @@
 <style>
 </style>
 <Hero
-        heroImage="/assets/images/heros/achero1.jpg"
+        heroImage="/assets/images/heros/plumbing-supplies.jpg"
         heroTitle="Affordable & High Quality Plumbing Supplies"
         heroBigText="Plumbing Fixtures"
         heroText="Premier Plumbing Supplier">

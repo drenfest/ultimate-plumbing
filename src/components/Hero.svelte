@@ -1,6 +1,6 @@
 <script>
     import ServiceBtn from './ServiceBtn.svelte'
-    export let heroImage="/assets/images/heros/hmhero1.jpg";
+    export let heroImage="/assets/images/heros/homepagepic.jpg";
     export let heroTitle="Ultimate Plumbing Supply";
     export let heroBigText="Affordable & High Quality Plumbing Parts & Tools";
     export let heroText="Same Day Delivery Available!";
@@ -39,6 +39,9 @@
         margin:0;
         padding:0;
         z-index:1;
+    }
+    .hero-right img{
+        max-height:360px;
     }
     .slant-box{
         position:absolute;
@@ -162,10 +165,11 @@
         </div>
     </div>
 </section>
-<div class="service-btns-bg">
-    <section class="service-buttons">
-        <ServiceBtn serviceBtnBg="#856e38" serviceLink="/plumbing-pumps" serviceTitle="Sump pumps, ejector pumps, All Kinds Of Pumps" serviceIcon="/assets/images/icons/gear.png" serviceIconAlt="Hvac a/c furnace Repairs Icon">Plumbing Pumps</ServiceBtn>
-        <ServiceBtn serviceBtnBg="#856e38" serviceLink="/plumbing-fixtures" serviceTitle="Check Out Our Plumbing Fixtures Here" serviceIcon="/assets/images/icons/money.png" serviceIconAlt="Hvac a/c furnace Replacements Icon">Plumbing Fixtures</ServiceBtn>
-        <ServiceBtn serviceBtnBg="#856e38"  serviceLink="/water-heaters" serviceTitle="Only The Best Water Heaters" serviceIcon="/assets/images/icons/calendar.png" serviceIconAlt="Hvac a/c furnace Maintenance Icon">Water Heaters</ServiceBtn>
-    </section>
-</div>
+<!--<div class="service-btns-bg">-->
+<!--    <section class="service-buttons">-->
+<!--        <ServiceBtn serviceBtnBg="#856e38" serviceLink="/plumbing-pumps" serviceTitle="Sump pumps, ejector pumps, All Kinds Of Pumps" serviceIcon="/assets/images/icons/gear.png" serviceIconAlt="Hvac a/c furnace Repairs Icon">Plumbing Pumps</ServiceBtn>-->
+<!--        <ServiceBtn serviceBtnBg="#856e38" serviceLink="/plumbing-fixtures" serviceTitle="Check Out Our Plumbing Fixtures Here" serviceIcon="/assets/images/icons/money.png" serviceIconAlt="Hvac a/c furnace Replacements Icon">Plumbing Fixtures</ServiceBtn>-->
+<!--        <ServiceBtn serviceBtnBg="#856e38"  serviceLink="/water-heaters" serviceTitle="Only The Best Water Heaters" serviceIcon="/assets/images/icons/calendar.png" serviceIconAlt="Hvac a/c furnace Maintenance Icon">Water Heaters</ServiceBtn>-->
+<!--    </section>-->
+<!--</div>-->
+

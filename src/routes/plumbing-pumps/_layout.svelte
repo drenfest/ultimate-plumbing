@@ -6,11 +6,11 @@
 <style>
 
 </style>
-<Hero heroImage="/assets/images/heros/heathero1.jpg"
+<Hero heroImage="/assets/images/heros/homepage.jpg"
       heroTitle="High Quality & Affordable"
       heroBigText="Plumbing Pumps"
       heroText="We are here to answer any questions you may have.">
-    <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Order Your Plumbing Pump Now</a>
+    <a class="btn btn-light" href="/contact" title="Get Same Day Delivery By Ordering Your Plumbing Pump Now">Order Your Plumbing Pump Now</a>
 </Hero>
 <div class="container">
     <div class="row">

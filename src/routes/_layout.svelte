@@ -80,15 +80,18 @@
 		</main>
 
 {/if}
+<Divider>
+	<h2>Brands We Carry</h2>
+</Divider>
 <div class="container">
 	<WhyUs></WhyUs>
 </div>
-<Divider>
-	<h2>See Our Reviews</h2>
-</Divider>
+<!--<Divider>-->
+<!--	<h2>See Our Reviews</h2>-->
+<!--</Divider>-->
 {#if lpages.indexOf(segment)  > -1 }
-	<Nn nnCity="{nnCity}" nnState="{nnState}"></Nn>
+<!--	<Nn nnCity="{nnCity}" nnState="{nnState}"></Nn>-->
 {:else}
-	<Nn></Nn>
+<!--	<Nn></Nn>-->
 {/if}
 <Footer></Footer>

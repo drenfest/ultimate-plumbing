@@ -6,12 +6,12 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/hvacthero1.jpg"
+        heroImage="/assets/images/heros/tools.jpg"
         heroTitle="Affordable & High Quality Plumbing Supplies"
         heroBigText="Plumbing Tools"
         heroText="Premier Plumbing Supplier">
     <p>Same Day Delivery Now Available!</p>
-    <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Order Now</a>
+    <a class="btn btn-light" href="/contact" title="Order Now And Get Your Plumbing Tools Delivered Today">Order Now</a>
 </Hero>
 <div class="container">
     <div class="row">

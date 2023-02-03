@@ -6,12 +6,12 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/progthermohero1.jpg"
+        heroImage="/assets/images/heros/fittings.jpg"
         heroTitle="Programmable Thermostats"
         heroBigText="Affordable & High Quality Plumbing Supplies"
         heroText="Premier Plumbing Supplier">
     <p>Same Day Delivery Now Available!</p>
-    <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Order Now</a>
+    <a class="btn btn-light" href="/contact" title="Get Your Plumbing Fittings With Same Day Delivery Now">Order Now</a>
 </Hero>
 <div class="container">
     <div class="row">

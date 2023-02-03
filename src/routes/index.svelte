@@ -8,7 +8,7 @@
 </script>
 <style>
 	.about-section{
-		padding:4rem 2rem 24rem;
+		padding:4rem 2rem;
 		background-image: url(/assets/images/homeaboutbk-m.jpg);
 		background-size: cover;
 		background-position: bottom center;
@@ -64,7 +64,7 @@ background: linear-gradient(90deg, rgba(61,84,103,1) 9%, rgba(96,115,130,1) 90%)
 	@media screen and (min-width:768px){
 
 	.about-section{
-		padding:6rem 2rem 24rem;
+		padding:6rem 2rem;
 		background-image: url(/assets/images/homeaboutbk.jpg);
 		background-size: cover;
 		background-position: bottom center;
@@ -91,7 +91,7 @@ background: linear-gradient(90deg, rgba(61,84,103,1) 9%, rgba(96,115,130,1) 90%)
 	<meta name="description" content="Top Rated Plumbing Supply Company">
 </svelte:head>
 <Hero
-		heroImage="/assets/images/heros/hmhero1.jpg"
+		heroImage="/assets/images/heros/homepagepic.jpg"
 		heroTitle="Ultimate Plumbing Supply"
 		heroBigText="Affordable & High Quality Plumbing Parts & Tools"
 		heroText="Same Day Delivery Available!">
@@ -100,33 +100,25 @@ background: linear-gradient(90deg, rgba(61,84,103,1) 9%, rgba(96,115,130,1) 90%)
 </Hero>
 <!--Service Buttons Are In Hero Component-->
 <section class="about-section">
-	<div class="container">
-		<h2 class="text-center">Ultimate Plumbing<span class="aboutsub">Preferred Plumbing Parts &amp; Tools Supplier</span></h2>
+	<div class="container"><h2 class="text-center">Ultimate Plumbing<span class="aboutsub">Preferred Plumbing Parts &amp; Tools Supplier</span>
+	</h2>
 		<div class="row">
-			<div class="col-xs-12">
-				<p>Ultimate Plumbing Supply has been serving the Palatine &amp; Arlington Heights IL area for over 25
-					years. We are a full service plumbing supplier serving Lake, Cook, McHenry, Kane and Dupage
-					counties. We take pride in working with customers on any project from the smallest do it
-					yourself to complete remodels. We can assist with home and commercial construction projects.
-					We offer high quality plumbing supplies &amp; parts for homeowners, contractors and plumbers.
-					No matter what the job, homeowner, apartment building, restaurant, large retail business or any
-					other facility with multiple bathrooms or kitchens, give Ultimate Plumbing Supply a call today.</p>
-			</div>
+			<div class="col-xs-12"><p>Ultimate Plumbing Supply has been serving the Palatine &amp; Arlington Heights IL
+				area for over 25 years. We are a full service plumbing supplier serving Lake, Cook, McHenry, Kane and
+				Dupage counties. We take pride in working with customers on any project from the smallest do it yourself
+				to complete remodels. We can assist with home and commercial construction projects. We offer high
+				quality plumbing supplies &amp; parts for homeowners, contractors and plumbers. No matter what the job,
+				homeowner, apartment building, restaurant, large retail business or any other facility with multiple
+				bathrooms or kitchens, give Ultimate Plumbing Supply a call today.</p></div>
 		</div>
-
-		<div class="row justify-content-center" style="padding:15px 0 0px;">
-
-			<p class="about-support" >Free Estimates | 24/7 Support </p>
-		</div>
-
-		<div class="row justify-content-center" style="padding:0px 0 0;">
-
-			<a class="btn btn-primary text-center" style="display:block;" href="tel:+1847-776-6001" title="Click Here To Call Now ">Call Now! (847)776-6001</a>
-
-		</div>
-
-
-
+		<iframe allowfullscreen="" frameborder="0" height="450"
+				src="https://www.youtube.com/embed/NTESMdKjnhk"
+				width="100%" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+		<div class="row justify-content-center"><p class="svelte-nw229z about-support">Free
+			Estimates | 24/7 Support </p></div>
+		<div class="row justify-content-center"><a
+				href="tel:+1847-776-6001" title="Click Here To Call Now "
+				class="btn btn-primary text-center">Call Now! (847)776-6001</a></div>
 	</div>
 </section>
 <Divider>

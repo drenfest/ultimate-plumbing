@@ -7,12 +7,12 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/achero1.jpg"
+        heroImage="/assets/images/heros/homepage.jpg"
         heroTitle="All About"
         heroBigText="Ultimate Plumbing"
         heroText="Top Rated Plumbing Supply Company">
     <p>Same Day Delivery Available!</p>
-    <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Order Now</a>
+    <a class="btn btn-light" href="/contact" title="Order Your Plumbing Equipment And Plumbing Supplies Now">Order Now</a>
 </Hero>
 <div class="container">
     <div class="row">

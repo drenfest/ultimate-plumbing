@@ -121,7 +121,33 @@
             <div class="col-sm footer2">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1513197.183287878!2d-89.96373091870048!3d42.20454280152865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fa45f4e4e20c5%3A0xc983857383e256f4!2sUltimate%20Plumbing%20Supply!5e0!3m2!1sen!2sus!4v1570129603313!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             </div>
-<!--            <div class="col-sm footer3">-->
+            <div class="col-sm footer3"><a href="/plumbing-supplies-fox-lake-il" title="Plumbing Supplies Fox Lake IL"
+                                           class="footernav-item">Plumbing Supplies Fox Lake IL</a><a
+                    href="/plumbing-supplies-palatine-il" title="Plumbing Supplies Palatine IL"
+                    class="footernav-item">Plumbing Supplies Palatine IL</a><a
+                    href="/plumbing-supplies-lafox-il" title="Plumbing Supplies Lafox IL"
+                    class="footernav-item">Plumbing Supplies Lafox IL</a><a
+                    href="/plumbing-supplies-bolingbrook-il" title="Plumbing Supplies Bolingbrook IL"
+                    class="footernav-item">Plumbing Supplies Bolingbrook IL</a><a
+                    href="/plumbing-supplies-north-aurora-il" title="Plumbing Supplies North Aurora IL"
+                    class="footernav-item">Plumbing Supplies North Aurora IL</a><a
+                    href="/plumbing-supplies-geneva-il" title="Plumbing Supplies Geneva IL"
+                    class="footernav-item">Plumbing Supplies Geneva IL</a><a
+                    href="/plumbing-supplies-bensenville-il" title="Plumbing Supplies Bensenville IL"
+                    class="footernav-item">Plumbing Supplies Bensenville IL</a><a
+                    href="/plumbing-supplies-plato-center-il" title="Plumbing Supplies Plato Center IL"
+                    class="footernav-item">Plumbing Supplies Plato Center IL</a><a
+                    href="/plumbing-supplies-elburn-il" title="Plumbing Supplies Elburn IL"
+                    class="footernav-item">Plumbing Supplies Elburn IL</a><a
+                    href="/plumbing-supplies-elmwood-park-il" title="Plumbing Supplies Elmwood Park IL"
+                    class="footernav-item">Plumbing Supplies Elmwood Park IL</a><a
+                    href="/plumbing-supplies-winthrop-harbor-il" title="Plumbing Supplies Winthrop Harbor IL"
+                    class="footernav-item">Plumbing Supplies Winthrop Harbor IL</a><a
+                    href="/plumbing-supplies-woodridge-il" title="Plumbing Supplies Woodridge IL"
+                    class="footernav-item">Plumbing Supplies Woodridge IL</a><a
+                    href="/plumbing-supplies-wonder-lake-il" title="Plumbing Supplies Wonder Lake IL"
+                    class="footernav-item">Plumbing Supplies Wonder Lake IL</a></div>
+            <!--            <div class="col-sm footer3">-->
 <!--                {#each linkArr as lk}-->
 <!--                <a class="footernav-item" href='/{lk.href}' title="{lk.title}">{lk.text}</a>-->
 <!--                {/each}-->

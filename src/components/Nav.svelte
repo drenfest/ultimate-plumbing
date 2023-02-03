@@ -23,7 +23,7 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-image: url("/assets/images/heatnav.jpg");
+	background-image: url("/assets/images/img_2420.jpg");
 	}
 
 	.bg-acnav {
